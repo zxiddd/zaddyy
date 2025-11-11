@@ -177,8 +177,8 @@ export default function Footer() {
             </div>
             <ul className="space-y-4">
               {[
-                { icon: Mail, text: 'hello@zaddy.agency', color: 'neon-purple', href: 'mailto:hello@zaddy.agency' },
-                { icon: Phone, text: '+91 98765 43210', color: 'neon-green', href: 'tel:+919876543210' },
+                { icon: Mail, text: 'zaiduddin20233@gmail.com', color: 'neon-purple', href: 'mailto:zaiduddin20233@gmail.com' },
+                { icon: Phone, text: '+91 9665184616', color: 'neon-green', href: 'tel:+919665184616' },
                 { icon: MapPin, text: 'Hyderabad', color: 'neon-blue', href: '#' }
               ].map((contact) => {
                 const IconComponent = contact.icon
