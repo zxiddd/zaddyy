@@ -179,7 +179,7 @@ export default function Footer() {
               {[
                 { icon: Mail, text: 'hello@zaddy.agency', color: 'neon-purple', href: 'mailto:hello@zaddy.agency' },
                 { icon: Phone, text: '+91 98765 43210', color: 'neon-green', href: 'tel:+919876543210' },
-                { icon: MapPin, text: 'Hyderabad, India', color: 'neon-blue', href: '#' }
+                { icon: MapPin, text: 'Hyderabad', color: 'neon-blue', href: '#' }
               ].map((contact) => {
                 const IconComponent = contact.icon
                 return (
