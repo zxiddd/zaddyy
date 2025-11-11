@@ -179,7 +179,7 @@ export default function Footer() {
               {[
                 { icon: Mail, text: 'zaiduddin20233@gmail.com', color: 'neon-purple', href: 'mailto:zaiduddin20233@gmail.com' },
                 { icon: Phone, text: '+91 9665184616', color: 'neon-green', href: 'tel:+919665184616' },
-                { icon: MapPin, text: 'Hyderabad', color: 'neon-blue', href: '#' }
+                { icon: MapPin, text: 'India', color: 'neon-blue', href: '#' }
               ].map((contact) => {
                 const IconComponent = contact.icon
                 return (

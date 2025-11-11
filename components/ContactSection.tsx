@@ -220,7 +220,7 @@ export default function ContactSection() {
               {[
                 { icon: Mail, title: 'Email Us', info: 'hello@zaddy.agency', color: 'neon-blue' },
                 { icon: Phone, title: 'Call Us', info: '+91 98765 43210', color: 'neon-purple' },
-                { icon: MapPin, title: 'Visit Us', info: 'Hyderabad', color: 'neon-green' }
+                { icon: MapPin, title: 'Visit Us', info: 'India', color: 'neon-green' }
               ].map((contact, index) => {
                 const Icon = contact.icon
                 return (
